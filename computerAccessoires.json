@@ -1,0 +1,66 @@
+[
+    {
+        "categories": [
+            {
+                "name": "Nintendo",
+                "url": "https://www.amazon.com/s/ref=s9_acss_bw_cg_purimil_2a1_w?k=nintendo&i=videogames-intl-ship&ref=nb_sb_noss&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-5&pf_rd_r=MW1FASGYY5GJ4SBKBEK9&pf_rd_t=101&pf_rd_p=434db2ed-6d53-4c59-b173-e8cd550a2e4f&pf_rd_i=23508887011"
+            },
+            {
+                "name": "Oculus",
+                "url": "https://www.amazon.com/s/ref=s9_acss_bw_cg_purimil_2b1_w?k=oculus&i=electronics-intl-ship&ref=nb_sb_noss&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-5&pf_rd_r=MW1FASGYY5GJ4SBKBEK9&pf_rd_t=101&pf_rd_p=434db2ed-6d53-4c59-b173-e8cd550a2e4f&pf_rd_i=23508887011"
+            },
+            {
+                "name": "XBOX",
+                "url": "https://www.amazon.com/s/ref=s9_acss_bw_cg_purimil_2c1_w?k=xbox+consoles&rh=n%3A720022&ref=nb_sb_noss&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-5&pf_rd_r=MW1FASGYY5GJ4SBKBEK9&pf_rd_t=101&pf_rd_p=434db2ed-6d53-4c59-b173-e8cd550a2e4f&pf_rd_i=23508887011"
+            },
+            {
+                "name": "Laptops",
+                "url": "https://www.amazon.com/s/ref=s9_acss_bw_cg_purimil_2d1_w?k=gaming+laptops&ref=nb_sb_noss&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-5&pf_rd_r=MW1FASGYY5GJ4SBKBEK9&pf_rd_t=101&pf_rd_p=434db2ed-6d53-4c59-b173-e8cd550a2e4f&pf_rd_i=23508887011"
+            },
+            {
+                "name": "Controllers",
+                "url": "https://www.amazon.com/s/ref=s9_acss_bw_cg_purimil_2e1_w?k=gaming+controller&ref=nb_sb_noss_1&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-5&pf_rd_r=MW1FASGYY5GJ4SBKBEK9&pf_rd_t=101&pf_rd_p=434db2ed-6d53-4c59-b173-e8cd550a2e4f&pf_rd_i=23508887011"
+            },
+            {
+                "name": "Playstation",
+                "url": "https://www.amazon.com/s/ref=s9_acss_bw_cg_purimil_3a1_w?k=playstation+consoles&rh=n%3A294915&ref=nb_sb_noss&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-5&pf_rd_r=MW1FASGYY5GJ4SBKBEK9&pf_rd_t=101&pf_rd_p=434db2ed-6d53-4c59-b173-e8cd550a2e4f&pf_rd_i=23508887011"
+            },
+            {
+                "name": "Video Games",
+                "url": "https://www.amazon.com/s/ref=s9_acss_bw_cg_purimil_3b1_w?k=Nintendo+Switch+Games&rh=n%3A16227133011&ref=nb_sb_noss&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-5&pf_rd_r=MW1FASGYY5GJ4SBKBEK9&pf_rd_t=101&pf_rd_p=434db2ed-6d53-4c59-b173-e8cd550a2e4f&pf_rd_i=23508887011"
+            },
+            {
+                "name": "Headsets",
+                "url": "https://www.amazon.com/s/ref=s9_acss_bw_cg_purimil_3c1_w?k=gaming+headsets&ref=nb_sb_noss_2&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-5&pf_rd_r=MW1FASGYY5GJ4SBKBEK9&pf_rd_t=101&pf_rd_p=434db2ed-6d53-4c59-b173-e8cd550a2e4f&pf_rd_i=23508887011"
+            },
+            {
+                "name": "Keyboards",
+                "url": "https://www.amazon.com/s/ref=s9_acss_bw_cg_purimil_3d1_w?k=gaming+keyboard&ref=nb_sb_noss_1&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-5&pf_rd_r=MW1FASGYY5GJ4SBKBEK9&pf_rd_t=101&pf_rd_p=434db2ed-6d53-4c59-b173-e8cd550a2e4f&pf_rd_i=23508887011"
+            },
+            {
+                "name": "Chairs",
+                "url": "https://www.amazon.com/s/ref=s9_acss_bw_cg_purimil_3e1_w?k=gaming+chairs&ref=nb_sb_noss&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-5&pf_rd_r=MW1FASGYY5GJ4SBKBEK9&pf_rd_t=101&pf_rd_p=434db2ed-6d53-4c59-b173-e8cd550a2e4f&pf_rd_i=23508887011"
+            },
+            {
+                "name": "Gaming mice",
+                "url": "https://www.amazon.com/s/ref=s9_acss_bw_cg_purimil_4a1_w?k=gaming+mouse&ref=nb_sb_noss_2&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-5&pf_rd_r=MW1FASGYY5GJ4SBKBEK9&pf_rd_t=101&pf_rd_p=434db2ed-6d53-4c59-b173-e8cd550a2e4f&pf_rd_i=23508887011"
+            },
+            {
+                "name": "Apparel",
+                "url": "https://www.amazon.com/s/ref=s9_acss_bw_cg_purimil_4b1_w?k=gaming+apparel&ref=nb_sb_noss&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-5&pf_rd_r=MW1FASGYY5GJ4SBKBEK9&pf_rd_t=101&pf_rd_p=434db2ed-6d53-4c59-b173-e8cd550a2e4f&pf_rd_i=23508887011"
+            },
+            {
+                "name": "Action Figures",
+                "url": "https://www.amazon.com/s/ref=s9_acss_bw_cg_purimil_4c1_w?k=gaming+action+figures&i=toys-and-games-intl-ship&ref=nb_sb_noss_2&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-5&pf_rd_r=MW1FASGYY5GJ4SBKBEK9&pf_rd_t=101&pf_rd_p=434db2ed-6d53-4c59-b173-e8cd550a2e4f&pf_rd_i=23508887011"
+            },
+            {
+                "name": "Hats",
+                "url": "https://www.amazon.com/s/ref=s9_acss_bw_cg_purimil_4d1_w?k=gaming+hats&ref=nb_sb_noss_2&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-5&pf_rd_r=MW1FASGYY5GJ4SBKBEK9&pf_rd_t=101&pf_rd_p=434db2ed-6d53-4c59-b173-e8cd550a2e4f&pf_rd_i=23508887011"
+            },
+            {
+                "name": "Mugs",
+                "url": "https://www.amazon.com/s/ref=s9_acss_bw_cg_purimil_4e1_w?k=gaming+mugs&i=kitchen-intl-ship&ref=nb_sb_noss&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-5&pf_rd_r=MW1FASGYY5GJ4SBKBEK9&pf_rd_t=101&pf_rd_p=434db2ed-6d53-4c59-b173-e8cd550a2e4f&pf_rd_i=23508887011"
+            }
+        ]
+    }
+]
