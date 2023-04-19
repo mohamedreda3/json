@@ -1,0 +1,443 @@
+[
+    {
+        "id": 1,
+        "heading": "2023 Ram 2500Longhorn Diesel Crew Cab",
+        "vehicleMakeModel": "2023 Ram 2500",
+        "vehicleTrim": "Longhorn Diesel Crew Cab",
+        "dealerPrice": "$88,675",
+        "colors": [
+            {
+                "color": "Flame Red Clear Coat"
+            },
+            {
+                "color": "Mountain Brown/Light Mountain Brown premium leather"
+            }
+        ],
+        "images": [
+            "https://static.ed.edmunds-media.com/unversioned/img/e17/no-vehicle-gray-images/no-vehicle-gray-image-truck.svg"
+        ],
+        "engine": "6'4” Bed, 6.7L, 6cyl",
+        "dealerName": "Corwin Chrysler Dodge Jeep Ram (65 mi away)",
+        "dealerLocation": "Corwin Chrysler Dodge Jeep Ram (65 mi away)"
+    },
+    {
+        "id": 2,
+        "heading": "2023 Ram 2500Laramie Diesel Mega Cab",
+        "vehicleMakeModel": "2023 Ram 2500",
+        "vehicleTrim": "Laramie Diesel Mega Cab",
+        "dealerPrice": "$90,845",
+        "colors": [
+            {
+                "color": "Pearl White"
+            },
+            {
+                "color": "Black leather"
+            }
+        ],
+        "images": [
+            "https://www.edmunds.com/assets/m/for-sale/72-3c6ur5nl1pg568858/img-1-600x400.jpg"
+        ],
+        "engine": "6'4” Bed, 6.7L, 6cyl",
+        "dealerName": "Corwin Chrysler Dodge Jeep Ram (65 mi away)",
+        "dealerLocation": "Corwin Chrysler Dodge Jeep Ram (65 mi away)"
+    },
+    {
+        "id": 3,
+        "heading": "2023 Ram 1500Longhorn Crew Cab",
+        "vehicleMakeModel": "2023 Ram 1500",
+        "vehicleTrim": "Longhorn Crew Cab",
+        "dealerPrice": "$80,375",
+        "colors": [
+            {
+                "color": "Bright White Clear Coat"
+            },
+            {
+                "color": "Black/New Saddle leather"
+            }
+        ],
+        "images": [
+            "https://www.edmunds.com/assets/m/for-sale/9f-1c6srfkt6pn554754/img-1-600x400.jpg"
+        ],
+        "engine": "5'7” Bed, 5.7L, 8cyl",
+        "dealerName": "Corwin Chrysler Dodge Jeep Ram (65 mi away)",
+        "dealerLocation": "Corwin Chrysler Dodge Jeep Ram (65 mi away)"
+    },
+    {
+        "id": 4,
+        "heading": "2023 Ram 2500Laramie Crew Cab",
+        "vehicleMakeModel": "2023 Ram 2500",
+        "vehicleTrim": "Laramie Crew Cab",
+        "dealerPrice": "$79,740",
+        "colors": [
+            {
+                "color": "Diamond Black Crystal Pearl Coat"
+            },
+            {
+                "color": "Black leather"
+            }
+        ],
+        "images": [
+            "https://www.edmunds.com/assets/m/for-sale/b5-3c6ur5fj9pg568863/img-1-600x400.jpg"
+        ],
+        "engine": "6'4” Bed, 6.4L, 8cyl",
+        "dealerName": "Corwin Chrysler Dodge Jeep Ram (65 mi away)",
+        "dealerLocation": "Corwin Chrysler Dodge Jeep Ram (65 mi away)"
+    },
+    {
+        "id": 5,
+        "heading": "2023 Ram 1500Laramie Crew Cab",
+        "vehicleMakeModel": "2023 Ram 1500",
+        "vehicleTrim": "Laramie Crew Cab",
+        "dealerPrice": "$64,145",
+        "colors": [
+            {
+                "color": "Bright White Clear Coat"
+            },
+            {
+                "color": "Black leather"
+            }
+        ],
+        "images": [
+            "https://www.edmunds.com/assets/m/for-sale/11-1c6srfjt1pn603358/img-1-600x400.jpg"
+        ],
+        "engine": "5'7” Bed, 5.7L, 8cyl",
+        "dealerName": "Corwin Chrysler Dodge Jeep Ram (65 mi away)",
+        "dealerLocation": "Corwin Chrysler Dodge Jeep Ram (65 mi away)"
+    },
+    {
+        "id": 6,
+        "heading": "2023 Ram 1500Big Horn Crew Cab",
+        "vehicleMakeModel": "2023 Ram 1500",
+        "vehicleTrim": "Big Horn Crew Cab",
+        "dealerPrice": "$63,710",
+        "colors": [
+            {
+                "color": "Diamond Black Crystal Pearl Coat"
+            },
+            {
+                "color": "Black premium cloth"
+            }
+        ],
+        "images": [
+            "https://www.edmunds.com/assets/m/for-sale/91-1c6srfft3pn577158/img-1-600x400.jpg"
+        ],
+        "engine": "5'7” Bed, 5.7L, 8cyl",
+        "dealerName": "Corwin Chrysler Dodge Jeep Ram (65 mi away)",
+        "dealerLocation": "Corwin Chrysler Dodge Jeep Ram (65 mi away)"
+    },
+    {
+        "id": 7,
+        "heading": "2023 Ram 1500Big Horn Crew Cab",
+        "vehicleMakeModel": "2023 Ram 1500",
+        "vehicleTrim": "Big Horn Crew Cab",
+        "dealerPrice": "$53,645",
+        "colors": [
+            {
+                "color": "Bright White Clear Coat"
+            },
+            {
+                "color": "Black premium cloth"
+            }
+        ],
+        "images": [
+            "https://www.edmunds.com/assets/m/for-sale/ca-1c6rrffg8pn552323/img-1-600x400.jpg"
+        ],
+        "engine": "5'7” Bed, 3.6L, 6cyl",
+        "dealerName": "Corwin Chrysler Dodge Jeep Ram (65 mi away)",
+        "dealerLocation": "Corwin Chrysler Dodge Jeep Ram (65 mi away)"
+    },
+    {
+        "id": 8,
+        "heading": "2023 Ram 1500Big Horn Quad Cab",
+        "vehicleMakeModel": "2023 Ram 1500",
+        "vehicleTrim": "Big Horn Quad Cab",
+        "dealerPrice": "$49,295",
+        "colors": [
+            {
+                "color": "Bright White Clear Coat"
+            },
+            {
+                "color": "Black premium cloth"
+            }
+        ],
+        "images": [
+            "https://www.edmunds.com/assets/m/for-sale/e3-1c6rrfbg9pn531731/img-1-600x400.jpg"
+        ],
+        "engine": "6'4” Bed, 3.6L, 6cyl",
+        "dealerName": "Corwin Chrysler Dodge Jeep Ram (65 mi away)",
+        "dealerLocation": "Corwin Chrysler Dodge Jeep Ram (65 mi away)"
+    },
+    {
+        "id": 9,
+        "heading": "2023 Jeep GladiatorHigh Altitude Crew Cab",
+        "vehicleMakeModel": "2023 Jeep Gladiator",
+        "vehicleTrim": "High Altitude Crew Cab",
+        "dealerPrice": "$57,300",
+        "colors": [
+            {
+                "color": "Black Clear Coat"
+            },
+            {
+                "color": "Black leather"
+            }
+        ],
+        "images": [
+            "https://www.edmunds.com/assets/m/for-sale/38-1c6hjtfg3pl526869/img-1-600x400.jpg"
+        ],
+        "engine": "5'0” Bed, 3.6L, 6cyl",
+        "dealerName": "Corwin Chrysler Dodge Jeep Ram (65 mi away)",
+        "dealerLocation": "Corwin Chrysler Dodge Jeep Ram (65 mi away)"
+    },
+    {
+        "id": 10,
+        "heading": "2023 Jeep GladiatorSport S Crew Cab",
+        "vehicleMakeModel": "2023 Jeep Gladiator",
+        "vehicleTrim": "Sport S Crew Cab",
+        "dealerPrice": "$46,170",
+        "colors": [
+            {
+                "color": "Granite Crystal Metallic Clear Coat"
+            },
+            {
+                "color": "Black cloth"
+            }
+        ],
+        "images": [
+            "https://www.edmunds.com/assets/m/for-sale/64-1c6hjtag8pl504860/img-1-600x400.jpg"
+        ],
+        "engine": "5'0” Bed, 6cyl",
+        "dealerName": "Corwin Chrysler Dodge Jeep Ram (65 mi away)",
+        "dealerLocation": "Corwin Chrysler Dodge Jeep Ram (65 mi away)"
+    },
+    {
+        "id": 11,
+        "heading": "2023 Jeep GladiatorMojave Crew Cab",
+        "vehicleMakeModel": "2023 Jeep Gladiator",
+        "vehicleTrim": "Mojave Crew Cab",
+        "dealerPrice": "$60,085",
+        "colors": [
+            {
+                "color": "Bright White Clear Coat"
+            },
+            {
+                "color": "Black leather"
+            }
+        ],
+        "images": [
+            "https://www.edmunds.com/assets/m/for-sale/12-1c6jjteg2pl530253/img-1-600x400.jpg"
+        ],
+        "engine": "5'0” Bed, 6cyl",
+        "dealerName": "Corwin Chrysler Dodge Jeep Ram (65 mi away)",
+        "dealerLocation": "Corwin Chrysler Dodge Jeep Ram (65 mi away)"
+    },
+    {
+        "id": 12,
+        "heading": "2023 Jeep GladiatorWillys Crew Cab",
+        "vehicleMakeModel": "2023 Jeep Gladiator",
+        "vehicleTrim": "Willys Crew Cab",
+        "dealerPrice": "$50,780",
+        "colors": [
+            {
+                "color": "Bright White Clear Coat"
+            },
+            {
+                "color": "Black cloth"
+            }
+        ],
+        "images": [
+            "https://www.edmunds.com/assets/m/for-sale/dc-1c6hjtagxpl503841/img-1-600x400.jpg"
+        ],
+        "engine": "5'0” Bed, 6cyl",
+        "dealerName": "Corwin Chrysler Dodge Jeep Ram (65 mi away)",
+        "dealerLocation": "Corwin Chrysler Dodge Jeep Ram (65 mi away)"
+    },
+    {
+        "id": 13,
+        "heading": "2023 Jeep GladiatorWillys Crew Cab",
+        "vehicleMakeModel": "2023 Jeep Gladiator",
+        "vehicleTrim": "Willys Crew Cab",
+        "dealerPrice": "$51,275",
+        "colors": [
+            {
+                "color": "Silver Zynith Clear Coat"
+            },
+            {
+                "color": "Black cloth"
+            }
+        ],
+        "images": [
+            "https://www.edmunds.com/assets/m/for-sale/6c-1c6hjtag7pl503845/img-1-600x400.jpg"
+        ],
+        "engine": "5'0” Bed, 6cyl",
+        "dealerName": "Corwin Chrysler Dodge Jeep Ram (65 mi away)",
+        "dealerLocation": "Corwin Chrysler Dodge Jeep Ram (65 mi away)"
+    },
+    {
+        "id": 14,
+        "heading": "2023 Jeep GladiatorMojave Crew Cab",
+        "vehicleMakeModel": "2023 Jeep Gladiator",
+        "vehicleTrim": "Mojave Crew Cab",
+        "dealerPrice": "$57,520",
+        "colors": [
+            {
+                "color": "Sarge Green Clear Coat"
+            },
+            {
+                "color": "Black leather"
+            }
+        ],
+        "images": [
+            "https://www.edmunds.com/assets/m/for-sale/02-1c6jjteg7pl510483/img-1-600x400.jpg"
+        ],
+        "engine": "5'0” Bed, 6cyl",
+        "dealerName": "Corwin Chrysler Dodge Jeep Ram (65 mi away)",
+        "dealerLocation": "Corwin Chrysler Dodge Jeep Ram (65 mi away)"
+    },
+    {
+        "id": 15,
+        "heading": "2023 Jeep GladiatorRubicon Crew Cab",
+        "vehicleMakeModel": "2023 Jeep Gladiator",
+        "vehicleTrim": "Rubicon Crew Cab",
+        "dealerPrice": "$59,220",
+        "colors": [
+            {
+                "color": "Firecracker Red Clear Coat"
+            },
+            {
+                "color": "Black premium cloth"
+            }
+        ],
+        "images": [
+            "https://www.edmunds.com/assets/m/for-sale/17-1c6jjtbg4pl510588/img-1-600x400.jpg"
+        ],
+        "engine": "5'0” Bed, 6cyl",
+        "dealerName": "Corwin Chrysler Dodge Jeep Ram (65 mi away)",
+        "dealerLocation": "Corwin Chrysler Dodge Jeep Ram (65 mi away)"
+    },
+    {
+        "id": 16,
+        "heading": "2023 Jeep GladiatorMojave Crew Cab",
+        "vehicleMakeModel": "2023 Jeep Gladiator",
+        "vehicleTrim": "Mojave Crew Cab",
+        "dealerPrice": "$58,585",
+        "colors": [
+            {
+                "color": "Silver Zynith Clear Coat"
+            },
+            {
+                "color": "Black leather"
+            }
+        ],
+        "images": [
+            "https://www.edmunds.com/assets/m/for-sale/68-1c6jjteg8pl518270/img-1-600x400.jpg"
+        ],
+        "engine": "5'0” Bed, 6cyl",
+        "dealerName": "Corwin Chrysler Dodge Jeep Ram (65 mi away)",
+        "dealerLocation": "Corwin Chrysler Dodge Jeep Ram (65 mi away)"
+    },
+    {
+        "id": 17,
+        "heading": "2023 Jeep GladiatorWillys Crew Cab",
+        "vehicleMakeModel": "2023 Jeep Gladiator",
+        "vehicleTrim": "Willys Crew Cab",
+        "dealerPrice": "$51,275",
+        "colors": [
+            {
+                "color": "Hydro Blue Pearl Coat"
+            },
+            {
+                "color": "Black cloth"
+            }
+        ],
+        "images": [
+            "https://www.edmunds.com/assets/m/for-sale/c4-1c6hjtag3pl503843/img-1-600x400.jpg"
+        ],
+        "engine": "5'0” Bed, 6cyl",
+        "dealerName": "Corwin Chrysler Dodge Jeep Ram (65 mi away)",
+        "dealerLocation": "Corwin Chrysler Dodge Jeep Ram (65 mi away)"
+    },
+    {
+        "id": 18,
+        "heading": "2023 Jeep GladiatorMojave Crew Cab",
+        "vehicleMakeModel": "2023 Jeep Gladiator",
+        "vehicleTrim": "Mojave Crew Cab",
+        "dealerPrice": "$58,585",
+        "colors": [
+            {
+                "color": "Sarge Green Clear Coat"
+            },
+            {
+                "color": "Black leather"
+            }
+        ],
+        "images": [
+            "https://www.edmunds.com/assets/m/for-sale/42-1c6jjteg1pl518272/img-1-600x400.jpg"
+        ],
+        "engine": "5'0” Bed, 6cyl",
+        "dealerName": "Corwin Chrysler Dodge Jeep Ram (65 mi away)",
+        "dealerLocation": "Corwin Chrysler Dodge Jeep Ram (65 mi away)"
+    },
+    {
+        "id": 19,
+        "heading": "2023 Ram 1500Laramie Crew Cab",
+        "vehicleMakeModel": "2023 Ram 1500",
+        "vehicleTrim": "Laramie Crew Cab",
+        "dealerPrice": "$64,345",
+        "colors": [
+            {
+                "color": "Diamond Black Crystal Pearl Coat"
+            },
+            {
+                "color": "Black leather"
+            }
+        ],
+        "images": [
+            "https://www.edmunds.com/assets/m/for-sale/09-1c6srfjt3pn603359/img-1-600x400.jpg"
+        ],
+        "engine": "5'7” Bed, 5.7L, 8cyl",
+        "dealerName": "Corwin Chrysler Dodge Jeep Ram (65 mi away)",
+        "dealerLocation": "Corwin Chrysler Dodge Jeep Ram (65 mi away)"
+    },
+    {
+        "id": 20,
+        "heading": "2023 Ram 1500Limited Crew Cab",
+        "vehicleMakeModel": "2023 Ram 1500",
+        "vehicleTrim": "Limited Crew Cab",
+        "dealerPrice": "$79,410",
+        "colors": [
+            {
+                "color": "Ivory White Tri-Coat Pearl Coat"
+            },
+            {
+                "color": "Black premium leather"
+            }
+        ],
+        "images": [
+            "https://www.edmunds.com/assets/m/for-sale/59-1c6srfhtxpn503278/img-1-600x400.jpg"
+        ],
+        "engine": "5'7” Bed, 5.7L, 8cyl",
+        "dealerName": "Corwin Chrysler Dodge Jeep Ram (65 mi away)",
+        "dealerLocation": "Corwin Chrysler Dodge Jeep Ram (65 mi away)"
+    },
+    {
+        "id": 21,
+        "heading": "2023 Ram 1500Big Horn Quad Cab",
+        "vehicleMakeModel": "2023 Ram 1500",
+        "vehicleTrim": "Big Horn Quad Cab",
+        "dealerPrice": "$51,055",
+        "colors": [
+            {
+                "color": "Bright White Clear Coat"
+            },
+            {
+                "color": "Black vinyl/cloth"
+            }
+        ],
+        "images": [
+            "https://www.edmunds.com/assets/m/for-sale/55-1c6rrfbg3pn557287/img-1-600x400.jpg"
+        ],
+        "engine": "6'4” Bed, 3.6L, 6cyl",
+        "dealerName": "Corwin Chrysler Dodge Jeep Ram (65 mi away)",
+        "dealerLocation": "Corwin Chrysler Dodge Jeep Ram (65 mi away)"
+    }
+]
